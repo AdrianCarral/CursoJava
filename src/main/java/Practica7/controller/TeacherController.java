@@ -36,9 +36,14 @@ public class TeacherController {
         return teacherService.update(id1, t);
     }
 
-    @DeleteMapping(path="/delete/{id1}") //http://localhost:8080/empleados/delete/2
+    @DeleteMapping(path="/delete/{id1}")
     public void deleteTeacher(@PathVariable long id1) {
         teacherService.delete(id1);
+    }
+
+    @GetMapping(path="/subject/{m}")
+    public List<Teacher> getTeacherBySubject(@PathVariable String m) {
+        return teacherService.findTeachersBySubjectName(m);
     }
 
 }

@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ffdce5-f652-4b17-9979-8b3d6cf21c54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/service/StudentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/service/StudentServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/controller/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/service/StudentServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/service/StudentServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/controller/TeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/controller/TeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/repository/TeacherRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/repository/TeacherRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/service/TeacherServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/service/TeacherServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/controller/TeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/controller/TeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/repository/TeacherRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/repository/TeacherRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/service/TeacherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/service/TeacherService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/service/TeacherServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/service/TeacherServiceImp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
