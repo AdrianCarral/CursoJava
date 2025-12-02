@@ -37,6 +37,7 @@ public class StudentController {
     public Student put(@PathVariable long id,@RequestBody Student s){
         return service.modifyStudent(id, s);
     }
+
     @DeleteMapping(path="/delete/{id}")
     public void delete(@PathVariable long id) {
         service.deleteStudent(id);

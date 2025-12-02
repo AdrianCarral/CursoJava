@@ -1,41 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="72ffdce5-f652-4b17-9979-8b3d6cf21c54" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/MainSB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/controller/StudentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/controller/SubjectController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/controller/TeacherController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/model/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/model/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/repository/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/repository/SubjectRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/repository/TeacherRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/StudentServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/SubjectService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/SubjectServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/TeacherService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/java/Practica7/service/TeacherServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSB/src/main/resources/application.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica7/service/StudentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica7/service/StudentServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Practica7/service/StudentServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Practica7/service/StudentServiceImp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainSB.executor": "Run",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/dgamartin/SpringBootIndra",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",

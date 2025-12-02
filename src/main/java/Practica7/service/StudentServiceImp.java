@@ -40,6 +40,8 @@ public class StudentServiceImp implements StudentService {
             original.setApellido(s.getApellido());
         if (s.getIdentificacion() != null)
             original.setIdentificacion(s.getIdentificacion());
+        if(s.getSubject()!= null)
+            original.setSubject(s.getSubject());
         return studentRepository.save(original);
     }
 
