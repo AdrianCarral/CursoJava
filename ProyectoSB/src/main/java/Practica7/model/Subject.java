@@ -1,6 +1,9 @@
 package Practica7.model;
 
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import lombok.Data;
 
@@ -17,9 +20,11 @@ public class Subject{
 
     @ManyToOne
     @JoinColumn(name = "teacher_id")
+    @JsonBackReference
     private Teacher teacher;
 
     @OneToMany(mappedBy = "subject")
+    @JsonManagedReference
     private List<Student> students;
 }
 

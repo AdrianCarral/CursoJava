@@ -1,6 +1,7 @@
 package Practica7.model;
 
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import lombok.Data;
 
@@ -15,7 +16,9 @@ public class Teacher{
 
     private String nombre;
 
-    @OneToMany(mappedBy = "teacher")
+
+    @OneToMany(mappedBy = "teacher", cascade = CascadeType.ALL)
+    @JsonManagedReference
     private List<Subject> subjects;
 }
 
